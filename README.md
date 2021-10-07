@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://github.com/fabricioceppi/interactive-pricing-component)
-- Live Site URL: [live site](https://fabricioceppi.github.io/interactive-pricing-component/)
+- [Check the code here](https://github.com/fabricioceppi/interactive-pricing-component)
+- [Go to live site](https://fabricioceppi.github.io/interactive-pricing-component/)
 
 ## My process
 
